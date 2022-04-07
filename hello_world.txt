@@ -3,3 +3,6 @@ hello world!
 i'm adding text here
 
 ok
+
+navbar
+
