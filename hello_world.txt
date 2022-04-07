@@ -1,8 +1,7 @@
+navbar
+shopping_cart
 hello world!
 
 i'm adding text here
 
 ok
-
-shopping cart
-
